@@ -1,7 +1,7 @@
 # City Bikes Statistical Modeling
 
 ## Project/Goals
-To conduct statistical analysis with python on data collected from multiple sources, including the CityBikes API, Foursquare and Yelp.
+To conduct statistical analysis with python on data collected from multiple sources, including the CityBikes, Foursquare and Yelp API's.
 ## Process
 ### Connecting to and attaining the necessary data from the Citybikes API
 I began by delving into the Citybikes API, seeking to understand how to make API calls effectively. I selected Los Angeles, California, as the focal point of my data collection efforts. My objective was to obtain comprehensive information about bike stations, including their geographical coordinates (longitude and latitude) and the number of available bikes at each station. I then parsed the acquired data into a structured dataframe for further analysis and insights.

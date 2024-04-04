@@ -1,4 +1,4 @@
-# Final-Project-Statistical-Modelling-with-Python
+# City Bikes Statistical Modeling
 
 ## Project/Goals
 To conduct statistical analysis on data collected from multiple sources, applying the knowledge acquired from the LHL Statistical Modeling with Python course.
